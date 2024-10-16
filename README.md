@@ -10,3 +10,4 @@ This project is PHP based website build for Apartment Visitor Management System
 
 ![Screenshot 2024-04-24 142802](https://github.com/user-attachments/assets/29e71e1b-e05b-443d-baeb-08c04f4d43e8)
 
+![Screenshot 2024-04-24 142602](https://github.com/user-attachments/assets/6ec2edf5-279b-4304-af66-2e98458f8cfa)
